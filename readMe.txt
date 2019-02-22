@@ -1,0 +1,2 @@
+1. You directly can run the Test_allData.m to test all datasets used in our paper
+2. For 'Caltech101-7','Caltech101-20','ORL', we selected parameter from [0.02,0.4], for MSRC and NUS, we select parameter from [0.2, 0.2] 
